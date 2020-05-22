@@ -1,3 +1,4 @@
+//queue implementation with singl linked list
 #include<stdio.h>
 #include<stdlib.h>
 void insert(int);
